@@ -3,7 +3,7 @@ package org.sopt.report2.service.impl;
 
 import lombok.extern.slf4j.Slf4j;
 import org.sopt.report2.model.User;
-import org.sopt.report2.model.api.DefaultRes;
+import org.sopt.report2.api.DefaultRes;
 import org.sopt.report2.service.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;

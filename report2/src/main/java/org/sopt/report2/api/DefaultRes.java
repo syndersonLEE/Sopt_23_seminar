@@ -1,4 +1,4 @@
-package org.sopt.report2.model.api;
+package org.sopt.report2.api;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

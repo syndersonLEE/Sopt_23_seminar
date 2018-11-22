@@ -1,4 +1,4 @@
-package org.sopt.report2.model.api;
+package org.sopt.report2.api;
 
 import lombok.extern.slf4j.Slf4j;
 import org.sopt.report2.model.User;

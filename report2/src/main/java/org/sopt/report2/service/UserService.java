@@ -1,7 +1,7 @@
 package org.sopt.report2.service;
 
 import org.sopt.report2.model.User;
-import org.sopt.report2.model.api.DefaultRes;
+import org.sopt.report2.api.DefaultRes;
 import java.util.List;
 
 public interface UserService {
